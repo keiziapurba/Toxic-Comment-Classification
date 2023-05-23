@@ -1,6 +1,6 @@
 # Toxic-Comment-Classification
 
-![Toxic Comment Classification](toxic-comment.avif)
+![Toxic Comment Classification](toxic-comment.jpg.avif)
 
 ## Table of Contents:
 - [Introduction](#introduction)
