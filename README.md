@@ -14,7 +14,7 @@
 
 ## Introduction
 
-The **Toxic Comment Classification** project focuses on developing a deep learning model to classify comments as toxic or non-toxic based on their content. The model aims to automatically identify and flag comments that contain offensive, disrespectful, or harmful language, helping maintain a safer and more inclusive online environment.
+The **Toxic Comment Classification** project focuses on developing a deep learning model to classify comments as toxic or non-toxic based on their content. The model aims to automatically identify and flag comments that contain offensive, disrespectful, or harmful language, helping maintain a safer and more inclusive online environment. The dataset includes comment_text and several target variables indicating different types of toxicity, such as toxic, severe toxic, obscene, threat, insult, and identity hate. The dataset is stored in a CSV file named train.csv.
 
 ## Preprocessing
 
